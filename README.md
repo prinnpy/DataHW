@@ -4,6 +4,8 @@
 
 ## Projects
 
+**Go to different branches:**
+
 - [X] ~~Homework 01~~
 - [ ] Homework 02
 - [ ] Homework 03
