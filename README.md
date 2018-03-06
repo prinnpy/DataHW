@@ -1,11 +1,11 @@
 
 # Homework 04
-> Build my own vector class by redefining my MyVector class 
-using dynamic memory allocation (dynamically allocating arrays).
+> Build Create a set of Linked Lists using pointers, and associated 
+member functions, then test each function in your main function.
 
 ## Screenshot
 
-<img src="https://github.com/prinnpy/data_structure/blob/HW04/datahw4.png" width="350">
+<img src="https://media.giphy.com/media/3tHT1HKd0Z5vSR8qTx/giphy.gif" width="350">
 
 ## Language
 ```sh
@@ -15,8 +15,8 @@ C++
 ## Files
 ```sh
 • main.cpp 
-• MyVector.cpp
-• MyVector.h
+• LinkList.cpp
+• LinkList.h
 ```
 
 ## Let's Connect!
