@@ -8,7 +8,7 @@ using overloading function. Then build 2 recursive search functions and
 
 ## Screenshot
 
-<img src="https://github.com/prinnpy/data_structure/blob/HW02/Screen%20Shot%202018-03-06%20at%201.34.15%20PM.png" width="350">
+<img src="https://github.com/prinnpy/data_structure/blob/HW03/Screen%20Shot%202018-03-06%20at%201.42.11%20PM.png" width="350">
 
 ## Language
 ```sh
