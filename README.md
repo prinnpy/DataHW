@@ -23,21 +23,6 @@ C++
 • ArrayBag.cpp (Given)
 • ArrayBag.h (Given)
 ```
-## Development setup
-
-Download and add files to new Xcode project, then run.
-
-```sh
-Don't include makefile!!
-```
-
-## Release History
-
-```sh
-
-0.0.1
-   - first commit
-```
 
 ## Let's Connect!
 
