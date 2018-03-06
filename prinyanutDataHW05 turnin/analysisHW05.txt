@@ -1,0 +1,41 @@
+***************
+Prinn Prinyanut
+HW05
+CSCI 2421
+***************
+
+Complexity Analysis
+-------------------
+
+#Insert at front function:
+ - Overall Complexity: f(1) + f(1) + f(1) + f(1) + f(1) + f(1) + f(1) + f(1) + f(1) + f(1) + f(1) = f(11)
+ - Big O: O(1) constant time
+ - Explination: 
+    - declare var = f(1)
+    - declare var = f(1)
+    - create new node = f(1)
+    - set data = f(1)
+    - if statement = f(1)
+    - create new node = f(1)
+    - assign value = f(1)
+    - assign pointer = f(1)
+    - assign pointer = f(1)
+    - assign head pointer = f(1)
+    - return statement = f(1)
+
+#Insert at back function:
+ - Overall Complexity: f(12) + f(n)
+ - Big O: O(n) linear time
+ - Explination: 
+    - declare var = f(1)
+    - declare var = f(1)
+    - create new node = f(1)
+    - set data = f(1)
+    - if statement = f(1)
+    - assignment = f(1)
+    - delete = f(1)
+    - while loop = f(n)
+    - counter = f(1)
+    - assign pointer = f(1)
+    - assign pointer = f(1)
+    - return statement = f(1)
