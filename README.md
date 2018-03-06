@@ -1,6 +1,12 @@
 
 # Homework 02
-> Write an overloading operator to add and substract
+> Add function where combining the two objects into one set by
+overloading the  + (union) operator, and print out the union set.
+The + operator must remove all duplicates from the result and
+store one copy of any item. Also implement a subtraction operator
+ where A - B means removing all elements that are in B from A.
+If the item is in B but not A, it is not placed in the result.
+Then remove the duplicates from the result, and print out the subtracted set.
 
 ## Screenshot
 
