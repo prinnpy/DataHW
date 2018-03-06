@@ -1,12 +1,10 @@
 
-# Homework 02
-> Add function where combining the two objects into one set by
-overloading the  + (union) operator, and print out the union set.
-The + operator must remove all duplicates from the result and
-store one copy of any item. Also implement a subtraction operator
- where A - B means removing all elements that are in B from A.
-If the item is in B but not A, it is not placed in the result.
-Then remove the duplicates from the result, and print out the subtracted set.
+# Homework 03
+> This program searches specific make, model, or year based on user's input. 
+Create a class called vehicle, that has make, model, and year as a private member functions. 
+Build a vector that contains vehicle class. Before you search you have to sort by make, model and year
+using overloading function. Then build 2 recursive search functions and
+2 iterative search functions. 
 
 ## Screenshot
 
@@ -20,8 +18,9 @@ C++
 ## Files
 ```sh
 • main.cpp 
-• ArrayBag.cpp (Given)
-• ArrayBag.h (Given)
+• functions.cpp
+• functions.h
+• Vehicle.h
 ```
 
 ## Let's Connect!
