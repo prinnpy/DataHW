@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-<img src=" " width="650">
+<img src="https://github.com/prinnpy/data_structure/blob/HW02/Screen%20Shot%202018-03-06%20at%201.34.15%20PM.png" width="650">
 
 ## Language
 ```sh
