@@ -16,3 +16,5 @@ HW04: [Homework 04 Repo](https://github.com/prinnpy/data_structure/tree/HW04)
 
 HW05: [Homework 05 Repo](https://github.com/prinnpy/data_structure/tree/HW05)
 
+HW05: [Homework 06 Repo](https://github.com/prinnpy/data_structure/tree/HW06)
+
