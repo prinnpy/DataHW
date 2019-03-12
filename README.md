@@ -20,3 +20,7 @@ HW06: [Homework 06 Repo](https://github.com/prinnpy/data_structure/tree/HW06)
 
 HW07: [Homework 07 Repo](https://github.com/prinnpy/data_structure/tree/HW07)
 
+HW08: [Homework 08 Repo](https://github.com/prinnpy/data_structure/tree/HW08)
+
+Final Project: [Final Project](https://github.com/prinnpy/data_structure/tree/Final-Project)
+
